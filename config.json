@@ -4,5 +4,6 @@
     "avatarUrl":"https://raw.githubusercontent.com/xuningji/xuningji.github.io/refs/heads/main/favicon.ico",
     "GMEEK_VERSION":"last",
     "showPostSource":0,
-    "startSite":"03/11/2026"
+    "startSite":"03/11/2026",
+    "indexStyle":"custom.css"
 }
