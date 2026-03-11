@@ -4,5 +4,7 @@
     "avatarUrl":"https://raw.githubusercontent.com/xuningji/xuningji.github.io/refs/heads/main/favicon.ico",
     "GMEEK_VERSION":"last",
     "showPostSource":0,
-    "startSite":"03/11/2026"
+    "startSite":"03/11/2026",
+    "style":"<style>#postBody{font-size:20px}</style>",
+    "script":"<script async src='//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js'></script>",
 }
